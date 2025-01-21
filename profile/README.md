@@ -53,7 +53,7 @@
 7| **อ๊อบเจ็คลิงค์ลิส**|[Lab7](https://classroom.github.com/a/IqAKu0r7)
 8| **สอบกลางภาค**|- 
 9| **การจัดการไฟล์ข้อมูล**|[Lab8](https://classroom.github.com/a/-64bN2HA) 
-10| **ฟังก์ชันเรียกตัวเอง**|- 
+10| **ฟังก์ชันเรียกตัวเอง**|[Lab9](https://classroom.github.com/a/g63MKdp-)
 11| **เทคนิคอัลกอริทึมแบบ Divide-and-Conquer**|- 
 12| **เทคนิคอัลกอริทึมแบบ Greedy**|- 
 13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|- 
