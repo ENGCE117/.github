@@ -38,26 +38,29 @@
 ### ลิงค์สำคัญสำหรับการส่งงาน & การตรวจดูคะแนน
 * [ลิงค์ต่อคิวส่ง Lab](https://forms.gle/qNwGNkvNeo19XgnD8)
 * [ตรวจคะแนน](https://docs.google.com/spreadsheets/d/1XV0xPuBfEJ5ZdCDUrEp4B8D2SlRuQ0hVXaSh_xA-wW8/edit?usp=sharing)
+* **New** บทความวิธีการส่ง Lab ผ่าน Github Classroom [คลิกที่ลิงค์นี้](https://e-profile.rmutl.ac.th/blog/d74c95d7-d24d-11ef-afd9-506b8da904ed)
+* **New** วีดีโอสอนการส่ง Lab ผ่าน Github Classroom [กำลังอยู่ในระหว่างจัดทำ](#)
+* **New** ลิงค์ดูคะแนนเฉพาะการส่ง Lab และ คะแนนปฏิบัติอื่นๆ [คลิกที่ลิงค์นี้](https://thailandfxwarrior.com/show_lab.php)
 
 ### รายการละเอียดในแต่ละสัปดาห์
 สัปดาห์ | เนื้อหา | Lab
 --- | --- | ---
 1| **ปรับพื้นฐานการเขียนโปรแกรมการ** <br />- พื้นฐานอัลกอริทึม<br />- พื้นฐานการเขียนโปรแกรมเบื้องต้น<br />- พื้นฐานการใช้ Github เพื่อควบคุมเวอร์ชั่นการทำงาน<br />- การใช้โปรแกรม VS Code|[การบ้าน](https://github.com/tumrmutl/ENGCC304-Computer-Programming/tree/main/Homework)<br />มีเวลาทำและส่งภายใน 30 วัน
-2| **ฟังก์ชันส่งผ่านอาเรย์ และฟังก์ชันส่งผ่านสตริง**|[1.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab1.1.md) [1.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab1.2.md) [1.3](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab1.3.md) [1.4](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab1.4.md) [1.5](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab1.5.md) [1.6](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab1.6.md) [2.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab2.1.md) [2.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab2.2.md) [2.3](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab2.3.md) [2.4](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab2.4.md)
-3| **ฟังก์ชันส่งผ่านสตรัค**| [3.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab3.1.md) [3.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab3.2.md) [3.3](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab3.3.md) [3.4](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab3.4.md) [3.5](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab3.5.md) 
-4| **การเปลี่ยนตำแหน่งการชี้ของพอยด์เตอร์**|[4.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab4.1.md) [4.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab4.2.md) [4.3](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab4.3.md) [4.4](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab4.4.md) [4.5](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab4.5.md) [4.6](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab4.6.md) [4.7](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab4.7.md) 
-5| **ฟังก์ชันจัดการลิงค์ลิสแบบทางเดียว**|[5.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab5.1.md) [5.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab5.2.md) 
-6| **ฟังก์ชันจัดการลิงค์ลิสแบบสองทาง**|[6.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab6.1.md) [6.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab6.2.md) 
-7| **อ๊อบเจ็คลิงค์ลิส**|[7.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab7.1.md) [7.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab7.2.md) 
-8| **สอบกลางภาค**|[8.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab8.1.md) 
-9| **การจัดการไฟล์ข้อมูล**|[9.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab9.1.md) 
-10| **ฟังก์ชันเรียกตัวเอง**|[10.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab10.1.md) [10.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab10.2.md) [10.3](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab10.3.md) 
-11| **เทคนิคอัลกอริทึมแบบ Divide-and-Conquer**|[11.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab11.1.md) [11.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab11.2.md) 
-12| **เทคนิคอัลกอริทึมแบบ Greedy**|[12.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab12.1.md) [12.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab12.2.md) 
-13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|[13.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab13.1.md) 
-14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[14.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab14.1.md) 
-15| **วิธีการเชิงตัวเลขแบบ Bisection**|[15.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab15.1.md) 
-16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[16.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab16.1.md) 
+2| **ฟังก์ชันส่งผ่านอาเรย์ และฟังก์ชันส่งผ่านสตริง**|[Lab1](https://classroom.github.com/a/pFBQo-L6) [Lab2](https://classroom.github.com/a/kbtif-33)
+3| **ฟังก์ชันส่งผ่านสตรัค**|[Lab3](https://classroom.github.com/a/Z_3dcHGz)
+4| **การเปลี่ยนตำแหน่งการชี้ของพอยด์เตอร์**|[Lab4](https://classroom.github.com/a/in_-IPVF)
+5| **ฟังก์ชันจัดการลิงค์ลิสแบบทางเดียว**|[Lab5](https://classroom.github.com/a/LnSIqqIy)
+6| **ฟังก์ชันจัดการลิงค์ลิสแบบสองทาง**|[Lab6](https://classroom.github.com/a/7pNA2b4C)
+7| **อ๊อบเจ็คลิงค์ลิส**|[Lab7](https://classroom.github.com/a/IqAKu0r7)
+8| **สอบกลางภาค**|- 
+9| **การจัดการไฟล์ข้อมูล**|[Lab8](https://classroom.github.com/a/-64bN2HA) 
+10| **ฟังก์ชันเรียกตัวเอง**|- 
+11| **เทคนิคอัลกอริทึมแบบ Divide-and-Conquer**|- 
+12| **เทคนิคอัลกอริทึมแบบ Greedy**|- 
+13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|- 
+14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|- 
+15| **วิธีการเชิงตัวเลขแบบ Bisection**|-
+16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
 17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
 18| **สอบปลายภาค**|- 
 
