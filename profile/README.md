@@ -36,10 +36,10 @@
 * [ระบบเรียนรู้โค้ดผ่านเกม](https://www.codingame.com/home)
 
 ### ลิงค์สำคัญสำหรับการส่งงาน & การตรวจดูคะแนน
-* [ตรวจคะแนน](https://docs.google.com/spreadsheets/d/1XV0xPuBfEJ5ZdCDUrEp4B8D2SlRuQ0hVXaSh_xA-wW8/edit?usp=sharing)
 * **New** บทความวิธีการส่ง Lab ผ่าน Github Classroom [คลิกที่ลิงค์นี้](https://e-profile.rmutl.ac.th/blog/d74c95d7-d24d-11ef-afd9-506b8da904ed)
-* **New** วีดีโอสอนการส่ง Lab ผ่าน Github Classroom [กำลังอยู่ในระหว่างจัดทำ](#)
+* **New** วีดีโอสอนการส่ง Lab ผ่าน Github Classroom [ส่งผ่านเว็บ](https://www.youtube.com/watch?v=c2f7GPJ8hzQ) [ส่งผ่าน VS Code](https://www.youtube.com/watch?v=f8X6sqz_JkA)
 * **New** ลิงค์ดูคะแนนเฉพาะการส่ง Lab และ คะแนนปฏิบัติอื่นๆ [คลิกที่ลิงค์นี้](https://thailandfxwarrior.com/show_lab.php)
+* [ตรวจคะแนนรวม](https://docs.google.com/spreadsheets/d/1XV0xPuBfEJ5ZdCDUrEp4B8D2SlRuQ0hVXaSh_xA-wW8/edit?usp=sharing)
 
 ### รายการละเอียดในแต่ละสัปดาห์
 สัปดาห์ | เนื้อหา | Lab
