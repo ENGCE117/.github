@@ -55,7 +55,7 @@
 9| **การจัดการไฟล์ข้อมูล**|[Lab8](https://classroom.github.com/a/-64bN2HA) 
 10| **ฟังก์ชันเรียกตัวเอง**|[Lab9](https://classroom.github.com/a/g63MKdp-)
 11| **เทคนิคอัลกอริทึมแบบ Divide-and-Conquer**|[Lab10](https://classroom.github.com/a/14pJjPup)
-12| **เทคนิคอัลกอริทึมแบบ Greedy**|- 
+12| **เทคนิคอัลกอริทึมแบบ Greedy**|[Lab11](https://classroom.github.com/a/v6bUfYxK)
 13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|- 
 14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|- 
 15| **วิธีการเชิงตัวเลขแบบ Bisection**|-
