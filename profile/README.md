@@ -59,7 +59,7 @@
 13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|[Lab12](https://classroom.github.com/a/tKmOlQKC) 
 14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[Lab13](https://classroom.github.com/a/ULGy0lN1)
 15| **วิธีการเชิงตัวเลขแบบ Bisection**|[Lab14](https://classroom.github.com/a/O7DsGAl0)
-16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
+16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[Practice #1](https://classroom.github.com/a/D7INz08u) 
 17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
 18| **สอบปลายภาค**|- 
 
