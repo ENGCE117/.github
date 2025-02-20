@@ -57,7 +57,7 @@
 11| **เทคนิคอัลกอริทึมแบบ Divide-and-Conquer**|[Lab10](https://classroom.github.com/a/14pJjPup)
 12| **เทคนิคอัลกอริทึมแบบ Greedy**|[Lab11](https://classroom.github.com/a/v6bUfYxK)
 13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|[Lab12](https://classroom.github.com/a/tKmOlQKC) 
-14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|- 
+14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[Lab13](https://classroom.github.com/a/ULGy0lN1)
 15| **วิธีการเชิงตัวเลขแบบ Bisection**|-
 16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
 17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
