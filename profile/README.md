@@ -58,7 +58,7 @@
 12| **เทคนิคอัลกอริทึมแบบ Greedy**|[Lab11](https://classroom.github.com/a/v6bUfYxK)
 13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|[Lab12](https://classroom.github.com/a/tKmOlQKC) 
 14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[Lab13](https://classroom.github.com/a/ULGy0lN1)
-15| **วิธีการเชิงตัวเลขแบบ Bisection**|-
+15| **วิธีการเชิงตัวเลขแบบ Bisection**|[Lab14](https://classroom.github.com/a/O7DsGAl0)
 16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
 17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
 18| **สอบปลายภาค**|- 
