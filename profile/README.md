@@ -60,7 +60,7 @@
 14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[Lab13](https://classroom.github.com/a/ULGy0lN1)
 15| **วิธีการเชิงตัวเลขแบบ Bisection**|[Lab14](https://classroom.github.com/a/O7DsGAl0)
 16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[Practice #1](https://classroom.github.com/a/D7INz08u) 
-17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
+17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[Practice #2](https://classroom.github.com/a/Mz654hPD) 
 18| **สอบปลายภาค**|- 
 
 ### อื่นๆ
