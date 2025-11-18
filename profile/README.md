@@ -34,8 +34,8 @@
 ### รายการละเอียดในแต่ละสัปดาห์
 สัปดาห์ | เนื้อหา | Lab
 --- | --- | ---
-1| **ปรับพื้นฐานการเขียนโปรแกรมการ** <br />- พื้นฐานอัลกอริทึม<br />- พื้นฐานการเขียนโปรแกรมเบื้องต้น<br />- พื้นฐานการใช้ Github เพื่อควบคุมเวอร์ชั่นการทำงาน<br />- การใช้โปรแกรม VS Code|[การบ้าน](https://www.thailandfxwarrior.com/coding/course/engce117)<br />มีเวลาทำและส่งภายใน 30 วัน
-2| **ฟังก์ชันส่งผ่านอาเรย์ และฟังก์ชันส่งผ่านสตริง**|[Lab1](https://www.thailandfxwarrior.com/coding/course/engce117) [Lab2](https://www.thailandfxwarrior.com/coding/course/engce117)
+1| **ปรับพื้นฐานการเขียนโปรแกรมการ** <br />- พื้นฐานอัลกอริทึม<br />- พื้นฐานการเขียนโปรแกรมเบื้องต้น<br />- พื้นฐานการใช้ Github เพื่อควบคุมเวอร์ชั่นการทำงาน<br />- การใช้โปรแกรม VS Code|[Lab1](https://www.thailandfxwarrior.com/coding/course/engce117)
+2| **ฟังก์ชันส่งผ่านอาเรย์ และฟังก์ชันส่งผ่านสตริง**|[Lab2](https://www.thailandfxwarrior.com/coding/course/engce117)
 3| **ฟังก์ชันส่งผ่านสตรัค**|[Lab3](https://www.thailandfxwarrior.com/coding/course/engce117)
 4| **การเปลี่ยนตำแหน่งการชี้ของพอยด์เตอร์**|[Lab4](https://www.thailandfxwarrior.com/coding/course/engce117)
 5| **ฟังก์ชันจัดการลิงค์ลิสแบบทางเดียว**|[Lab5](https://www.thailandfxwarrior.com/coding/course/engce117)
