@@ -34,24 +34,24 @@
 ### รายการละเอียดในแต่ละสัปดาห์
 สัปดาห์ | เนื้อหา | Lab
 --- | --- | ---
-1| **ปรับพื้นฐานการเขียนโปรแกรมการ** <br />- พื้นฐานอัลกอริทึม<br />- พื้นฐานการเขียนโปรแกรมเบื้องต้น<br />- พื้นฐานการใช้ Github เพื่อควบคุมเวอร์ชั่นการทำงาน<br />- การใช้โปรแกรม VS Code|[การบ้าน](https://github.com/tumrmutl/ENGCC304-Computer-Programming/tree/main/Homework)<br />มีเวลาทำและส่งภายใน 30 วัน
-2| **ฟังก์ชันส่งผ่านอาเรย์ และฟังก์ชันส่งผ่านสตริง**|[Lab1](https://classroom.github.com/a/pFBQo-L6) [Lab2](https://classroom.github.com/a/kbtif-33)
-3| **ฟังก์ชันส่งผ่านสตรัค**|[Lab3](https://classroom.github.com/a/Z_3dcHGz)
-4| **การเปลี่ยนตำแหน่งการชี้ของพอยด์เตอร์**|[Lab4](https://classroom.github.com/a/in_-IPVF)
-5| **ฟังก์ชันจัดการลิงค์ลิสแบบทางเดียว**|[Lab5](https://classroom.github.com/a/LnSIqqIy)
-6| **ฟังก์ชันจัดการลิงค์ลิสแบบสองทาง**|[Lab6](https://classroom.github.com/a/7pNA2b4C)
-7| **อ๊อบเจ็คลิงค์ลิส**|[Lab7](https://classroom.github.com/a/IqAKu0r7)
-8| **สอบกลางภาค**|- 
-9| **การจัดการไฟล์ข้อมูล**|[Lab8](https://classroom.github.com/a/-64bN2HA) 
-10| **ฟังก์ชันเรียกตัวเอง**|[Lab9](https://classroom.github.com/a/g63MKdp-)
-11| **เทคนิคอัลกอริทึมแบบ Divide-and-Conquer**|[Lab10](https://classroom.github.com/a/14pJjPup)
-12| **เทคนิคอัลกอริทึมแบบ Greedy**|[Lab11](https://classroom.github.com/a/v6bUfYxK)
-13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|[Lab12](https://classroom.github.com/a/tKmOlQKC) 
-14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[Lab13](https://classroom.github.com/a/ULGy0lN1)
-15| **วิธีการเชิงตัวเลขแบบ Bisection**|[Lab14](https://classroom.github.com/a/O7DsGAl0)
-16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[Practice #1](https://classroom.github.com/a/D7INz08u) 
-17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[Practice #2](https://classroom.github.com/a/Mz654hPD) 
-18| **สอบปลายภาค**|- 
+1| **ปรับพื้นฐานการเขียนโปรแกรมการ** <br />- พื้นฐานอัลกอริทึม<br />- พื้นฐานการเขียนโปรแกรมเบื้องต้น<br />- พื้นฐานการใช้ Github เพื่อควบคุมเวอร์ชั่นการทำงาน<br />- การใช้โปรแกรม VS Code|[การบ้าน](https://www.thailandfxwarrior.com/coding/course/engce117)<br />มีเวลาทำและส่งภายใน 30 วัน
+2| **ฟังก์ชันส่งผ่านอาเรย์ และฟังก์ชันส่งผ่านสตริง**|[Lab1](https://www.thailandfxwarrior.com/coding/course/engce117) [Lab2](https://www.thailandfxwarrior.com/coding/course/engce117)
+3| **ฟังก์ชันส่งผ่านสตรัค**|[Lab3](https://www.thailandfxwarrior.com/coding/course/engce117)
+4| **การเปลี่ยนตำแหน่งการชี้ของพอยด์เตอร์**|[Lab4](https://www.thailandfxwarrior.com/coding/course/engce117)
+5| **ฟังก์ชันจัดการลิงค์ลิสแบบทางเดียว**|[Lab5](https://www.thailandfxwarrior.com/coding/course/engce117)
+6| **ฟังก์ชันจัดการลิงค์ลิสแบบสองทาง**|[Lab6](https://www.thailandfxwarrior.com/coding/course/engce117)
+7| **อ๊อบเจ็คลิงค์ลิส**|[Lab7](https://www.thailandfxwarrior.com/coding/course/engce117)
+8| **สอบกลางภาค**|- 
+9| **การจัดการไฟล์ข้อมูล**|[Lab8](https://www.thailandfxwarrior.com/coding/course/engce117) 
+10| **ฟังก์ชันเรียกตัวเอง**|[Lab9](https://www.thailandfxwarrior.com/coding/course/engce117)
+11| **เทคนิคอัลกอริทึมแบบ Divide-and-Conquer**|[Lab10](https://www.thailandfxwarrior.com/coding/course/engce117)
+12| **เทคนิคอัลกอริทึมแบบ Greedy**|[Lab11](https://www.thailandfxwarrior.com/coding/course/engce117)
+13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|[Lab12](https://www.thailandfxwarrior.com/coding/course/engce117) 
+14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[Lab13](https://www.thailandfxwarrior.com/coding/course/engce117)
+15| **วิธีการเชิงตัวเลขแบบ Bisection**|[Lab14](https://www.thailandfxwarrior.com/coding/course/engce117)
+16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[Practice #1](https://www.thailandfxwarrior.com/coding/course/engce117) 
+17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[Practice #2](https://www.thailandfxwarrior.com/coding/course/engce117) 
+18| **สอบปลายภาค**|-
 
 ### อื่นๆ
 * [ข้อมูลอาจารย์](https://lms.rmutl.ac.th/teachers/detail/24002453439513437/5fd51c39cb8f05637cb8e96df6ec9392edb3ec16ea62666620cda4fd8f8b3e72)
